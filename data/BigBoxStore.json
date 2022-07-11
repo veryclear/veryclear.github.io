@@ -1,0 +1,12 @@
+{
+  "Item Category" : ["Select Sub Category"],
+  "Vegetables": ["Beans", "Onion", "Potato", "Tomato"],
+  "Fruit": ["Apples", "Oranges", "Grapes"],
+  "Meat" : ["Chicken", "Beef", "Ham", "Fish"],
+  "Condiments" : ["Ketchup", "Mustard", "Mayonaise"],
+  "Spices" : ["Salt", "Pepper", "Cloves", "Cardamom"],
+  "Dairy" : ["Milk", "Cream", "Cheese", "Butter", "Ghee"],
+  "Toiletries" : ["Detergent", "Body Wash", "Bath Soap", "Shampoo", "Conditioner", "Shaving Cream", "Face Wash"],
+  "Paper" : ["Paper towels", "Paper plates", "Toilet Paper"],
+  "Beverage" : ["Bottled Water", "Soda", "Beer", "Wine"]
+}
